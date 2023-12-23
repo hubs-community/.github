@@ -1,6 +1,11 @@
 # Welcome to the @Hubs/Community on GitHub
 ## About Us
 Welcome to the Hubs Community GitHub Organization! This space is dedicated to building and sharing community-driven projects and enhancements for Mozilla Hubs Community Edition (CE), an open-source platform for creating social virtual reality (VR) experiences. Our mission is to foster a collaborative environment where developers, creators, and enthusiasts can contribute to the evolving landscape of VR and virtual spaces.
+<br/>
+We are just a couple of ducks...
+<br/>
+<img src="https://github.com/hubs-community/.github/assets/8368794/ecc9d9f7-7b8b-4efb-b922-dacbd16f1138" width="400">
+<br/>
 
 ## Contributing
 We are excited about your interest in contributing to the Hubs community! Whether you're a coder, a designer, a VR enthusiast, or just someone with great ideas, there's a place for you here. Here's how you can get started:
