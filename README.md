@@ -16,9 +16,6 @@ We are excited about your interest in contributing to the Hubs community! Whethe
 # Getting Help
 Need help or have questions? Join [Mozilla Hubs Discord channel](https://discord.com/invite/dFJncWwHun) to connect with other community members and maintainers.
 
-# Stay Updated
-Follow us on [Twitter](Twitter link) or subscribe to our [newsletter](newsletter link) for the latest updates and announcements.
-
 # License
 All projects in this organization are open source. Please check the individual repositories for specific licensing details.
 
